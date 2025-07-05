@@ -13,8 +13,8 @@
 ## 安装
 
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-chinese.git
-cd caesar-cipher-chinese
+git clone https://github.com/ciallo0721-cmd/Python-Encryption-and-Decryption-Program.git
+cd Python-Encryption-and-Decryption
 pip install -r requirements.txt
 ```
 
@@ -56,8 +56,8 @@ python decrypt.py
 ## インストール
 
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-chinese.git
-cd caesar-cipher-chinese
+git clone https://github.com/ciallo0721-cmd/Python-Encryption-and-Decryption-Program.git
+cd Python-Encryption-and-Decryption
 pip install -r requirements.txt
 ```
 
@@ -99,8 +99,8 @@ This tool provides Caesar cipher encryption/decryption with support for Chinese 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-chinese.git
-cd caesar-cipher-chinese
+git clone https://github.com/ciallo0721-cmd/Python-Encryption-and-Decryption-Program.git
+cd Python-Encryption-and-Decryption
 pip install -r requirements.txt
 ```
 
